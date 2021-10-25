@@ -1,16 +1,9 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: ilpyo
-  Date: 2021-10-25
-  Time: 오후 6:44
-  To change this template use File | Settings | File Templates.
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>maven 게시판 만들기</title>
   </head>
   <body>
-  $END$
+  <h2>hello world!</h2>
   </body>
 </html>
